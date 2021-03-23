@@ -27,12 +27,13 @@ Subjects Covered:
 * etcetcetc fill in later
 
 ### House Sales in King County, USA for Stakeholders
+[Jupyter Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4d5ab6b8-65b2-4b56-997a-fc8ba1bfcea3/view?access_token=7bfbedfac71d416d02ba5e630d9969dac275053447ab06cde2e3092036bae224)
 
 
 
 ## Contact Info
-Donald Sun
-donald.sun91@gmail.com
+Donald Sun\
+donald.sun91@gmail.com\
 https://www.linkedin.com/in/donaldsun91/
 
 ## Source Formats
