@@ -15,12 +15,12 @@ Subjects Covered:
 * Python etcetc fill in later
 
 ### Rental Car Fleet Analysis for Stakeholders
-[Excel](https://drive.google.com/file/d/1GuuuwQjHxyKdlsh_zWqlkjUs9D6MpEYw/view?usp=sharing)
-[Powerpoint](https://drive.google.com/file/d/1tu8jtMA3YQ8JurREMUOyUWACJk3TQQZ_/view?usp=sharing)
+[Excel](https://drive.google.com/file/d/1GuuuwQjHxyKdlsh_zWqlkjUs9D6MpEYw/view?usp=sharing)\
+[Powerpoint](https://drive.google.com/file/d/1tu8jtMA3YQ8JurREMUOyUWACJk3TQQZ_/view?usp=sharing)\
 
 ### EPA Fuel Economy Analysis for Consumers
-[Excel]()
-[Powerpoint]()
+[Excel]()\
+[Powerpoint]()\
 
 # IBM Data Analyst Professional Certification
 
