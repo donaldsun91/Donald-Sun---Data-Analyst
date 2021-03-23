@@ -9,10 +9,10 @@ Please see my work below
 # Thinkful Data Analytics Program
 
 Subjects Covered:
-*Data Visualization using Excel and Tableau
-*Practical Statistics using Excel
-*SQL using PostgreSQL
-*Python etcetc fill in later
+* Data Visualization using Excel and Tableau
+* Practical Statistics using Excel
+* SQL using PostgreSQL
+* Python etcetc fill in later
 
 ### Rental Car Fleet Analysis for Stakeholders
 
@@ -21,10 +21,10 @@ Subjects Covered:
 # IBM Data Analyst Professional Certification
 
 Subjects Covered:
-*Data Visualization using IBM Cognos Analytics
-*Data Analysis using Python (pandas and NumPy)
-*Data Visualization using Python (matplotlib and Seaborn)
-*etcetcetc fill in later
+* Data Visualization using IBM Cognos Analytics
+* Data Analysis using Python (pandas and NumPy)
+* Data Visualization using Python (matplotlib and Seaborn)
+* etcetcetc fill in later
 
 ### House Sales in King County, USA for Stakeholders
 
@@ -34,3 +34,6 @@ Subjects Covered:
 Donald Sun
 donald.sun91@gmail.com
 https://www.linkedin.com/in/donaldsun91/
+
+## Source Formats
+https://github.com/mkumar7/Data-Analyst-Portfolio
