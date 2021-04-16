@@ -12,7 +12,9 @@ Subjects Covered:
 * Data Visualization using Excel and Tableau
 * Practical Statistics using Excel
 * SQL using PostgreSQL
-* Python etcetc fill in later
+* Data Analysis using Python (pandas)
+* Data Visualization using Python (pandas)
+* Statistical Analysis using Python (SciPy & researchpy)
 
 ### Rental Car Fleet Analysis for Stakeholders
 [Excel](https://drive.google.com/file/d/1GuuuwQjHxyKdlsh_zWqlkjUs9D6MpEYw/view?usp=sharing)\
@@ -32,7 +34,7 @@ Subjects Covered:
 * Data Visualization using IBM Cognos Analytics
 * Data Analysis using Python (pandas and NumPy)
 * Data Visualization using Python (matplotlib and Seaborn)
-* etcetcetc fill in later
+* Data Manipulation using SQL
 
 ### House Sales in King County, USA for Stakeholders
 [Jupyter Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4d5ab6b8-65b2-4b56-997a-fc8ba1bfcea3/view?access_token=7bfbedfac71d416d02ba5e630d9969dac275053447ab06cde2e3092036bae224)
