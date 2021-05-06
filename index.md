@@ -19,27 +19,20 @@ Subjects Covered:
 ### Rental Car Fleet Analysis for Stakeholders
 [Excel](https://drive.google.com/file/d/1GuuuwQjHxyKdlsh_zWqlkjUs9D6MpEYw/view?usp=sharing)\
 [Powerpoint](https://drive.google.com/file/d/1tu8jtMA3YQ8JurREMUOyUWACJk3TQQZ_/view?usp=sharing)
+* Analyzed publicly available animal intake and outcome data published by the city of Austin, TX. Acquired real time data using API, cleaned and organized data for use in visualizations and statistical tests (ANOVA, T-Tests), and made recommendations from the analysis to support the shelter's goals as described in their mission statement.
+* Tools and Methods : Python, ETL, Jupyter, PowerPoint
 
 ### EPA Fuel Economy Analysis for Consumers
-[Excel]()\
-[Powerpoint]()
+[Excel](https://drive.google.com/file/d/1vRLckFBXHvwov1wPEL3bH6nQ_ak6Q78H/view?usp=sharing)\
+[Powerpoint](https://drive.google.com/file/d/1DNh_kz7RubMFxSZv6MW16kZ_M1VDICOD/view?usp=sharing)
+* Analyzed fuel economy data to help inform users of an online consumer products review site and made purchasing recommendations to guide users to the most fuel efficient vehicles available. Utilized statistical tests such as T and Z tests to demonstrate significant difference between fuel economy and factors such as manufacturer, engine type, and fuel.
+* Tools and Methods: Excel, Powerpoint
 
 ### Austin Animal Shelter Performance Analysis for Stakeholders
 [Google Colab Notebook](https://colab.research.google.com/drive/11yRXOAo7roGQMWNsFJe2enKYI1Oajjz9?usp=sharing)\
-[Powerpoint]
-
-# IBM Data Analyst Professional Certification
-
-Subjects Covered:
-* Data Visualization using IBM Cognos Analytics
-* Data Analysis using Python (pandas and NumPy)
-* Data Visualization using Python (matplotlib and Seaborn)
-* Data Manipulation using SQL
-
-### House Sales in King County, USA for Stakeholders
-[Jupyter Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4d5ab6b8-65b2-4b56-997a-fc8ba1bfcea3/view?access_token=7bfbedfac71d416d02ba5e630d9969dac275053447ab06cde2e3092036bae224)
-
-
+[Powerpoint](https://drive.google.com/file/d/1C0PuAQ55H9iw1JEjcZPKlg3XugE-2UUx/view?usp=sharing)
+* Using data from the financial performance of Lariat’s rental car fleet and US Bureau of Economic Analysis, designed a dashboard and visualizations to forecast 2019 financial performance, and made recommendations to optimize profit margins.
+* Tools and Methods: Excel, Powerpoint
 
 ## Contact Info
 Donald Sun\
